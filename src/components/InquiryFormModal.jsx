@@ -1,4 +1,3 @@
-// src/components/InquiryFormModal.jsx
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';

@@ -671,7 +671,7 @@ export const individualCourses = [
     name: 'Canva',
     category: 'graphic-design',
     description: 'Learn to create stunning designs effortlessly using Canva for social media, presentations, and more. Master this popular online design tool for quick, professional results.',
-    image: 'https://i.pinimg.com/736x/e9/cd/f9/e9cdf91ac8bbbe678d9e9c252fdae02e.jpg', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/fe/a0/9d/fea09d47b90e285ea188398003ba8f6a.jpg', // Replace with relevant image
     slug: 'canva',
     learningOutcomes: [
       'Create engaging social media graphics',
