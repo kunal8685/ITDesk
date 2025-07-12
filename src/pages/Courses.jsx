@@ -84,7 +84,8 @@ const Courses = () => {
                   key={course.id}
                   initial={{ opacity: 0, y: 30 }}
                   whileInView={{ opacity: 1, y: 0 }}
-                  transition={{ delay: index * 0.1, duration: 0.6 }}
+                  // Removed 'delay: index * 0.1' for quicker simultaneous appearance
+                  transition={{ duration: 0.6 }} 
                 >
                   <Card className="card-hover h-full overflow-hidden flex flex-col">
                     {/* Image */}
@@ -93,6 +94,7 @@ const Courses = () => {
                         className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                         alt={course.name}
                         src={course.image}
+                        loading="lazy" // Added lazy loading for images
                       />
                     </div>
 
