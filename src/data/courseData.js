@@ -7,7 +7,7 @@ export const individualCourses = [
     name: 'AutoCAD Mechanical',
     category: 'mechanical',
     description: 'A powerful draponents. This course covers everything from basic drafting to advanced parametric modeling.',
-    image: 'https://images.unsplash.com/photo-1y&cs=tinwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/1200x/a4/ec/de/a4ecde35a5808707795ba710a9000252.jpg',
     slug: 'autocad-mechanical', // Unique slug for detail page
     learningOutcomes: [
       'Master 2D drafting and detailing',
@@ -23,7 +23,7 @@ export const individualCourses = [
     name: 'Solidworks',
     category: 'mechanical',
     description: 'Popular in Product Industries for 3D mechanical design, simulation, and product data management. Learn to create complex parts, assemblies, and detailed drawings.',
-    image: 'https://images.unsplash.com/photo-1582234031945-8f6c1d5f2f4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxzb2xpZHdvcmtzfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/736x/fa/b1/ee/fab1ee1d321b37b6fadfd4dc37a60e04.jpg',
     slug: 'solidworks',
     learningOutcomes: [
       'Design 3D models and assemblies',
@@ -39,7 +39,7 @@ export const individualCourses = [
     name: 'CNC Programming',
     category: 'mechanical',
     description: 'CNC Programming is the manual coding done by G-code and M-code for automated machine tools. This course covers both milling and turning operations.',
-    image: 'https://images.unsplash.com/photo-1542831371-d68a25c6a1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjbmMlMjBtYWNoaW5lfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/1200x/62/6a/a6/626aa60ddecdd7b41d9655e265828f2b.jpg',
     slug: 'cnc-programming',
     learningOutcomes: [
       'Write and interpret G-code and M-code',
@@ -55,7 +55,7 @@ export const individualCourses = [
     name: 'CATIA',
     category: 'mechanical',
     description: 'Used by most of the Automobile and aerospace companies for comprehensive product development. CATIA offers advanced capabilities in surfacing, solid modeling, and analysis.',
-    image: 'https://images.unsplash.com/photo-1547432854-c9f44f6f4e1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjYXRpYSUyMGRlc2lnbnxlbnwwfHx8fDE3MDA4MTU2MTF8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/1200x/29/b3/17/29b3176e9ff0f5e83d517a3e42d0c1fa.jpg',
     slug: 'catia',
     learningOutcomes: [
       'Master Part Design and Assembly Design',
@@ -71,7 +71,7 @@ export const individualCourses = [
     name: 'Creo',
     category: 'mechanical',
     description: 'Powerful 3D CAD software for product design and development, offering capabilities in surfacing, simulation, and manufacturing. Formerly known as Pro/ENGINEER.',
-    image: 'https://images.unsplash.com/photo-1581090122709-ae1524e9b9c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxpdHxlbnwwfHx8fDE3MTUyNDU0NTd8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/736x/d2/10/e9/d210e94a8a0596ccf30684e16ef2180a.jpg',
     slug: 'creo',
     learningOutcomes: [
       'Perform parametric solid modeling',
@@ -87,7 +87,7 @@ export const individualCourses = [
     name: 'Ansys (WB/CFD)',
     category: 'mechanical',
     description: 'Simulation software for structural analysis (Workbench) and fluid dynamics (CFD), widely used in engineering. Gain expertise in finite element analysis and computational fluid dynamics.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxzaW11bGF0aW9uJTIwc29mdHdhcmV8ZW5mDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/736x/46/5e/5d/465e5d048a79be32a14c74d602c57692.jpg',
     slug: 'ansys',
     learningOutcomes: [
       'Conduct structural (FEA) and thermal analysis',
@@ -103,7 +103,7 @@ export const individualCourses = [
     name: 'NX CAD',
     category: 'mechanical',
     description: 'Integrated CAD/CAM/CAE solution from Siemens, used for product design, engineering, and manufacturing. Learn advanced modeling, assembly, and drafting.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHx3ZWJzaXRlJTIwYmFubmVyfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/37/c2/55/37c2551feeb70d6178ef5e87b31534fd.jpg', // Replace with relevant image
     slug: 'nx-cad',
     learningOutcomes: [
       'Master synchronous technology for flexible modeling',
@@ -119,7 +119,7 @@ export const individualCourses = [
     name: 'GD & T',
     category: 'mechanical',
     description: 'Geometric Dimensioning and Tolerancing for defining and communicating engineering product design and manufacturing information. Essential for precision engineering.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHx3ZWJzaXRlJTIwYmFubmVyfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/82/68/1b/82681bd18812fb595924afe206f50dd0.jpg', // Replace with relevant image
     slug: 'gd-t',
     learningOutcomes: [
       'Interpret GD&T symbols and principles',
@@ -135,7 +135,7 @@ export const individualCourses = [
     name: 'DEL CAM',
     category: 'mechanical',
     description: 'Advanced CAM software for complex machining, especially in mold, die, and tool making industries. Focuses on high-speed and multi-axis machining.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHx3ZWJzaXRlJTIwYmFubmVyfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/97/d5/db/97d5db0d90d5c9bb39e27c74ceccc43f.jpg', // Replace with relevant image
     slug: 'del-cam',
     learningOutcomes: [
       'Generate complex tool paths for 3-axis and 5-axis machining',
@@ -151,7 +151,7 @@ export const individualCourses = [
     name: 'Master CAM',
     category: 'mechanical',
     description: 'Industry-leading CAM software for various machining operations, from 2-axis milling to multi-axis routing. Ideal for manufacturing professionals.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHx3ZWJzaXRlJTIwYmFubmVyfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/13/03/9d/13039d783c73c48f13d90b20b82f48ab.jpg', // Replace with relevant image
     slug: 'master-cam',
     learningOutcomes: [
       'Program 2D and 3D machining operations',
@@ -169,7 +169,7 @@ export const individualCourses = [
     name: 'AutoCAD Electrical',
     category: 'electrical',
     description: 'AutoCAD Electrical for designing and documenting electrical control systems. Learn schematic design, panel layouts, and report generation.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/1200x/96/7d/22/967d22ea4022dd2cc0a5c100115ec5d4.jpg',
     slug: 'autocad-electrical',
     learningOutcomes: [
       'Create and manage electrical schematics',
@@ -185,7 +185,7 @@ export const individualCourses = [
     name: 'HMI',
     category: 'electrical',
     description: 'Human-Machine Interface training for designing and implementing effective operator interfaces. Focuses on intuitive control and monitoring systems.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/8b/8f/bc/8b8fbcdbead8254ff1d020c273a3f67a.jpg', // Replace with relevant image
     slug: 'hmi',
     learningOutcomes: [
       'Design user-friendly HMI screens',
@@ -201,7 +201,7 @@ export const individualCourses = [
     name: 'E-Plan',
     category: 'electrical',
     description: 'EPLAN Electric P8 for professional electrical engineering and automated design of schematics. Streamline your electrical design processes.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/a5/cf/c5/a5cfc559bba1603ca862812f29aaa7d3.jpg', // Replace with relevant image
     slug: 'e-plan',
     learningOutcomes: [
       'Create intelligent electrical schematics',
@@ -217,7 +217,7 @@ export const individualCourses = [
     name: 'MATLAB',
     category: 'electrical',
     description: 'MATLAB for numerical computing, visualization, and programming, essential for electrical engineers. Learn data analysis, algorithm development, and modeling.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/35/de/56/35de56c4d541c63425fcea8af55265bf.jpg', // Replace with relevant image
     slug: 'matlab',
     learningOutcomes: [
       'Perform data analysis and visualization',
@@ -233,7 +233,7 @@ export const individualCourses = [
     name: 'PLC',
     category: 'electrical',
     description: 'Programmable Logic Controllers for industrial automation and control systems. Hands-on training on various PLC platforms and programming languages.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/1f/8f/de/1f8fde58f2a464800fac1c55ee765584.jpg', // Replace with relevant image
     slug: 'plc',
     learningOutcomes: [
       'Program PLCs using Ladder Logic, FBD, ST',
@@ -249,7 +249,7 @@ export const individualCourses = [
     name: 'EV Technology',
     category: 'electrical',
     description: 'Covers the fundamentals of Electric Vehicle technology, including power electronics, charging systems, and battery management from an electrical perspective.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/89/25/30/892530a04075266b49c248343c1f2bce.jpg', // Replace with relevant image
     slug: 'ev-technology-electrical',
     learningOutcomes: [
       'Understand EV powertrain components (motors, inverters)',
@@ -265,7 +265,7 @@ export const individualCourses = [
     name: 'SCADA',
     category: 'electrical',
     description: 'Supervisory Control and Data Acquisition systems for monitoring and controlling industrial processes. Learn data acquisition, alarming, and historical trending.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://ctisupply.vn/wp-content/uploads/2020/09/scada.png', // Replace with relevant image
     slug: 'scada',
     learningOutcomes: [
       'Design SCADA system architectures',
@@ -281,7 +281,7 @@ export const individualCourses = [
     name: 'Embedded Systems',
     category: 'electrical',
     description: 'Design and development of embedded systems, integrating hardware and software for specialized functions. Covers microcontrollers, sensors, and real-time operating systems.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i0.wp.com/electricalfundablog.com/wp-content/uploads/2018/09/Embedded-Systems-Feature-Image_thumb.png?resize=640%2C383&ssl=1', // Replace with relevant image
     slug: 'embedded-systems',
     learningOutcomes: [
       'Program microcontrollers (e.g., Arduino, PIC)',
@@ -297,7 +297,7 @@ export const individualCourses = [
     name: 'ETAP',
     category: 'electrical',
     description: 'ETAP for power system analysis, simulation, and operation, crucial for electrical engineers. Perform load flow, short circuit, and protection studies.',
-    image: 'https://images.unsplash.com/photo-1579762590740-4f513d2a02b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxlbGVjdHJpY2FsfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EUa8fYB-7iLrFAa9nYpeBOFHHzDvC6rRuw&s', // Replace with relevant image
     slug: 'etap',
     learningOutcomes: [
       'Model power systems in ETAP',
@@ -315,7 +315,7 @@ export const individualCourses = [
     name: 'AutoCAD Civil',
     category: 'civil',
     description: 'AutoCAD for civil engineering, including drafting, design, and documentation of infrastructure projects. Focuses on tools for civil and architectural drafting.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080',
+    image: 'https://i.pinimg.com/736x/ff/49/6b/ff496b016174bc54f0b872b0cf738482.jpg',
     slug: 'autocad-civil',
     learningOutcomes: [
       'Master 2D and 3D drafting for civil structures',
@@ -331,7 +331,7 @@ export const individualCourses = [
     name: 'STAAD Pro',
     category: 'civil',
     description: 'Structural analysis and design software widely used in civil engineering for various structures. Perform analysis for buildings, bridges, towers, etc.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/58/dd/80/58dd80670da048e87407248e9a715219.jpg', // Replace with relevant image
     slug: 'staad-pro',
     learningOutcomes: [
       'Model various structural systems (frames, trusses, slabs)',
@@ -347,7 +347,7 @@ export const individualCourses = [
     name: 'Revit',
     category: 'civil',
     description: 'Building Information Modeling (BIM) software for architects, structural engineers, and MEP engineers. Learn collaborative design and documentation.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/68/16/90/6816904414f26e75dae2a7f889636441.jpg', // Replace with relevant image
     slug: 'revit',
     learningOutcomes: [
       'Create intelligent 3D building models',
@@ -363,7 +363,7 @@ export const individualCourses = [
     name: 'BIM',
     category: 'civil',
     description: 'Comprehensive Building Information Modeling training, covering collaboration and project management. Learn the principles and practical application of BIM workflows.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/b0/74/5d/b0745dc08bc3e19d6f98ac82d80880dc.jpg', // Replace with relevant image
     slug: 'bim',
     learningOutcomes: [
       'Understand BIM concepts and benefits',
@@ -379,7 +379,7 @@ export const individualCourses = [
     name: '3ds Max',
     category: 'civil',
     description: '3D modeling, animation, and rendering software used for architectural visualization and design. Create stunning photorealistic renders of civil and architectural projects.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/98/6a/4e/986a4ef13edd785aa879c355cdf97887.jpg', // Replace with relevant image
     slug: '3ds-max',
     learningOutcomes: [
       'Model 3D architectural and civil structures',
@@ -395,7 +395,7 @@ export const individualCourses = [
     name: 'MS Project',
     category: 'civil',
     description: 'Project management software for planning, tracking, and managing construction projects. Learn to create schedules, allocate resources, and monitor progress.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/ba/1e/db/ba1edb9c4d373540ae949c2a889efdb7.jpg', // Replace with relevant image
     slug: 'ms-project',
     learningOutcomes: [
       'Develop project schedules and Gantt charts',
@@ -411,7 +411,7 @@ export const individualCourses = [
     name: 'SketchUp',
     category: 'civil',
     description: '3D modeling software for various drawing applications such as architectural, interior design, and civil engineering. Quick and intuitive 3D creation.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/2e/1e/ca/2e1ecab36da0aa12ff647a26f2a933c3.jpg', // Replace with relevant image
     slug: 'sketchup',
     learningOutcomes: [
       'Create 3D models of buildings and landscapes',
@@ -427,7 +427,7 @@ export const individualCourses = [
     name: 'Revit MEP',
     category: 'civil',
     description: 'BIM software for Mechanical, Electrical, and Plumbing (MEP) design within the Revit platform. Learn to design integrated building systems.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/ef/b7/ee/efb7eed452943e59b9b815de2dd9543c.jpg', // Replace with relevant image
     slug: 'revit-mep',
     learningOutcomes: [
       'Design HVAC systems in Revit',
@@ -443,7 +443,7 @@ export const individualCourses = [
     name: 'Tekla',
     category: 'civil',
     description: 'Tekla Structures for BIM and structural engineering, providing detailed 3D modeling for steel and concrete. Focuses on constructible modeling for real-world projects.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://5.imimg.com/data5/IOS/Default/2024/2/391415621/IE/WN/IG/49456356/product-jpeg.png', // Replace with relevant image
     slug: 'tekla',
     learningOutcomes: [
       'Model steel and concrete structures in 3D',
@@ -459,7 +459,7 @@ export const individualCourses = [
     name: 'ETAB',
     category: 'civil',
     description: 'ETABS for structural analysis and design of building systems, especially for earthquake engineering. Comprehensive tools for multi-story building analysis.',
-    image: 'https://images.unsplash.com/photo-1542468307-e54734e5a9c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjaXZpbCUyMGVuZ2luZWVyaW5nJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://5.imimg.com/data5/SELLER/Default/2024/5/420907302/II/WM/WK/55304525/etabs-academic-software-500x500.jpg', // Replace with relevant image
     slug: 'etab',
     learningOutcomes: [
       'Model complex building structures',
@@ -477,7 +477,7 @@ export const individualCourses = [
     name: 'BIW Fixture Design',
     category: 'domain-courses',
     description: 'Specialized course in designing fixtures for Body-in-White (BIW) assembly processes in automotive industry. Learn to create robust and efficient tooling.',
-    image: 'https://images.unsplash.com/photo-1621946026815-3e28c7c9c0f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1fHxtZWNoYW5pY2FsJTIwY2FkJTIwZGVzaWdufGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://5.imimg.com/data5/SELLER/Default/2021/6/QC/TF/MC/11281517/biw-welding-fixtures.jpg', // Replace with relevant image
     slug: 'biw-fixture-design',
     learningOutcomes: [
       'Understand BIW assembly processes',
@@ -493,7 +493,7 @@ export const individualCourses = [
     name: 'Plastic Mould Design',
     category: 'domain-courses',
     description: 'Design and manufacturing principles for plastic injection molds. Covers hot runner, cold runner systems, and various mold components.',
-    image: 'https://images.unsplash.com/photo-1582234031945-8f6c1d5f2f4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxzb2xpZHdvcmtzfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/9a/9e/08/9a9e0885b28e8197356c413a374cfbdc.jpg', // Replace with relevant image
     slug: 'plastic-mould',
     learningOutcomes: [
       'Understand plastic injection molding process',
@@ -509,7 +509,7 @@ export const individualCourses = [
     name: 'BIW Product Design',
     category: 'domain-courses',
     description: 'Focuses on designing the unpainted car body structure, including sheet metal components and assemblies. Learn automotive design standards and practices.',
-    image: 'https://images.unsplash.com/photo-1542831371-d68a25c6a1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjbmMlMjBtYWNoaW5lfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/b6/d7/22/b6d722cff0a7cef98f61eaecbfa7c9ff.jpg', // Replace with relevant image
     slug: 'biw-product-design',
     learningOutcomes: [
       'Design sheet metal components for BIW',
@@ -525,7 +525,7 @@ export const individualCourses = [
     name: 'Wire Harness Design',
     category: 'domain-courses',
     description: 'Design and routing of electrical wire harnesses, crucial for automotive and aerospace industries. Learn to create efficient and manufacturable harness designs.',
-    image: 'https://images.unsplash.com/photo-1547432854-c9f44f6f4e1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjYXRpYSUyMGRlc2lnbnxlbnwwfHx8fDE3MDA4MTU2MTF8MA&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.ytimg.com/vi/GUkvw1Nv5fk/maxresdefault.jpg', // Replace with relevant image
     slug: 'wire-harness',
     learningOutcomes: [
       'Understand wire harness components and standards',
@@ -541,7 +541,7 @@ export const individualCourses = [
     name: 'Plastic Product Design',
     category: 'domain-courses',
     description: 'Covers the principles and best practices for designing various plastic products. Focuses on design for manufacturing (DFM) and material selection.',
-    image: 'https://images.unsplash.com/photo-1581090122709-ae1524e9b9c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxpdHxlbnwwfHx8fDE3MTUyNDU0NTd8MA&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://media.licdn.com/dms/image/v2/D4D12AQEphXr7WMoDQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1691425792561?e=2147483647&v=beta&t=lNEA1jr8CXyYsh39juO4dOgYRq9BSPFXT6N7Hbbwzek', // Replace with relevant image
     slug: 'plastic-product-design',
     learningOutcomes: [
       'Understand properties of common plastics',
@@ -557,7 +557,7 @@ export const individualCourses = [
     name: 'EV Technology (Domain)',
     category: 'domain-courses',
     description: 'Advanced insights into Electric Vehicle architecture, battery systems, and integration for product designers. Focuses on mechanical and packaging aspects of EVs.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxzaW11bGF0aW9uJTIwc29mdHdhcmV8ZW5mDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/66/15/09/6615098d0d65b86e77d61644dc291804.jpg', // Replace with relevant image
     slug: 'ev-technology-domain',
     learningOutcomes: [
       'Understand EV chassis and body design considerations',
@@ -573,7 +573,7 @@ export const individualCourses = [
     name: 'Press Tool Design',
     category: 'domain-courses',
     description: 'Specialized course in the design of press tools for sheet metal forming operations. Covers blanking, piercing, bending, and deep drawing dies.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHx3ZWJzaXRlJTIwYmFubmVyfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/1d/f9/eb/1df9eb8e2e34f43f268358a821534d8d.jpg', // Replace with relevant image
     slug: 'press-tool-design',
     learningOutcomes: [
       'Understand sheet metal forming processes',
@@ -589,7 +589,7 @@ export const individualCourses = [
     name: 'Casting Design',
     category: 'domain-courses',
     description: 'Principles and practices for designing components suitable for various casting processes. Focuses on optimizing part geometry for manufacturability and performance.',
-    image: 'https://images.unsplash.com/photo-1517032791404-367d3e6a4b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHx3ZWJzaXRlJTIwYmFubmVyfGVufDB8fHx8MTcwMDgxNTYxMXww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/de/c0/78/dec0789dd06aa0ab078b76cdfb906f2b.jpg', // Replace with relevant image
     slug: 'casting-design',
     learningOutcomes: [
       'Understand different casting processes (sand, die, investment)',
@@ -607,7 +607,7 @@ export const individualCourses = [
     name: 'Photoshop',
     category: 'graphic-design',
     description: 'Master image editing, manipulation, and graphic design with Adobe Photoshop. From basic retouching to complex compositions, unleash your creativity.',
-    image: 'https://images.unsplash.com/photo-1596761504953-e9622d10c1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxwaG90b3Nob3B8ZW58MHx8fHwxNzA4MTk3MjQ2fDA&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/c6/cb/46/c6cb46e898757fd90857826455e3785f.jpg', // Replace with relevant image
     slug: 'photoshop',
     learningOutcomes: [
       'Understand Photoshop interface and tools',
@@ -623,7 +623,7 @@ export const individualCourses = [
     name: 'Illustrator',
     category: 'graphic-design',
     description: 'Learn vector graphics creation, logos, icons, and illustrations with Adobe Illustrator. Ideal for scalable artwork for any medium.',
-    image: 'https://images.unsplash.com/photo-1611162617154-5a210d7a04a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxpbGx1c3RyYXRvcnxlbnwwfHx8fDE3MDg0NjY3NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.ytimg.com/vi/sRmO0ha1Vbg/maxresdefault.jpg', // Replace with relevant image
     slug: 'illustrator',
     learningOutcomes: [
       'Create and manipulate vector shapes',
@@ -639,7 +639,7 @@ export const individualCourses = [
     name: 'Corel Draw',
     category: 'graphic-design',
     description: 'Comprehensive training in CorelDRAW for graphic design, page layout, and photo editing. A versatile tool for print and digital design.',
-    image: 'https://images.unsplash.com/photo-1574716752392-4d7a8d5f2a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjb3JlbCUyMGRyYXd8ZW58MHx8fHwxNzA4NDY2NzYyfDA&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/04/07/8d/04078d97f512c0495236b6f7d655dd5b.jpg', // Replace with relevant image
     slug: 'corel-draw',
     learningOutcomes: [
       'Design vector graphics and layouts',
@@ -655,7 +655,7 @@ export const individualCourses = [
     name: 'Maya Design',
     category: 'graphic-design',
     description: 'Explore 3D animation, modeling, simulation, and rendering with Autodesk Maya. Used extensively in film, games, and architectural visualization.',
-    image: 'https://images.unsplash.com/photo-1563242037-8f5b8c9d0a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxzdHVkaW8lMjBtYXlhfGVufDB8fHx8MTcwODQ2Njc2Mnww&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/02/1a/dd/021add08efb34878f8c1d2782788e966.jpg', // Replace with relevant image
     slug: 'maya-design',
     learningOutcomes: [
       'Model 3D objects and environments',
@@ -671,7 +671,7 @@ export const individualCourses = [
     name: 'Canva',
     category: 'graphic-design',
     description: 'Learn to create stunning designs effortlessly using Canva for social media, presentations, and more. Master this popular online design tool for quick, professional results.',
-    image: 'https://images.unsplash.com/photo-1616421528612-4299b82772a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxjYW52YXxlbnwwfHx8fDE3MDg0NjY3NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/736x/e9/cd/f9/e9cdf91ac8bbbe678d9e9c252fdae02e.jpg', // Replace with relevant image
     slug: 'canva',
     learningOutcomes: [
       'Create engaging social media graphics',
@@ -687,7 +687,7 @@ export const individualCourses = [
     name: 'Figma',
     category: 'graphic-design',
     description: 'Collaborative interface design tool for creating prototypes, wireframes, and user interfaces. Ideal for UI/UX designers working in teams.',
-    image: 'https://images.unsplash.com/photo-1628157573273-0ec353e8ddc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHxmaWdtYXxlbnwwfHx8fDE3MDg0NjY3NjJ8MA&ixlib=rb-4.0.3&q=80&w=1080', // Replace with relevant image
+    image: 'https://i.pinimg.com/1200x/78/e4/07/78e407855cd0e9a261f08b9d6e4206bd.jpg', // Replace with relevant image
     slug: 'figma',
     learningOutcomes: [
       'Design user interfaces and experiences',
